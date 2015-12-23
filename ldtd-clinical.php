@@ -8,7 +8,7 @@ get_header(); ?>
 <?php get_template_part( 'sidebar' , 'about'); ?>
 
 <div class="col-sm-9">
-	<h1>Laser Diode Thermal Desorption - Application Notes</h1>
+	<h1 class="LDTDheading">Laser Diode Thermal Desorption - Application Notes</h1>
 	<h2 class="pageSubTitle"><?php the_title(); ?></h2>
 
 	<?php
