@@ -5,7 +5,7 @@ Template Name: LDTD - Environmental
 
 get_header(); ?>
 
-<?php get_template_part( 'sidebar' , 'about'); ?>
+<?php get_template_part( 'sidebar' , 'scientific'); ?>
 
 <div class="col-sm-9">
 	<h1 class="LDTDheading">Laser Diode Thermal Desorption - Application Notes</h1>

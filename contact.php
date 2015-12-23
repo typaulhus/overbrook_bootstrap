@@ -15,7 +15,7 @@ get_header(); ?>
 
 		</div><!-- #content -->
 
-		<div class="col-sm-3">
+		<div class="col-sm-4">
 			<div class="contactSide">
 				<div class="contactImage"><img alt="Overbrook" src="http://theoverbrookgroup.com/wp-content/uploads/2013/10/bostonOverbrook.jpg" /></div>
 				<p class="contactSideRule contactSideP"><strong>OVERBROOK</strong> <br>
@@ -31,4 +31,3 @@ get_header(); ?>
 
 
 <?php get_template_part( 'footer' ); ?>
-
